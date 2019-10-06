@@ -1,4 +1,4 @@
-####Overview
+#### Overview
 
 This project is blackjack app that allows a user to play against
 a dealer. The objective of this app is to improve upon designing
@@ -17,7 +17,7 @@ card value wins that round.
 If the user decides to hit, the user will be dealt a card until he/ she decides
 to stay, gets 21, or busts.
 
-###Design
+### Design
 As mentioned, the program is designed to emulate real-life objects. The program
 uses enums for its card ranks and card suits. There is a Casino class that runs
 the program from a main method. When a user decides to play, a new player
@@ -34,7 +34,7 @@ so that other card games can be created using the Deck, Cards, and
 Hand classes.
 
 
-###Struggles
+### Struggles
 The most difficult part of this program was the initial conceptualization
 of how the objects are going to interact with each other. UML and sequential
 diagrams were a huge help, but in hindsight I wish I would've taken a little
