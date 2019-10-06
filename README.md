@@ -1,4 +1,4 @@
-#### Overview
+## Overview
 
 This project is blackjack app that allows a user to play against
 a dealer. The objective of this app is to improve upon designing
